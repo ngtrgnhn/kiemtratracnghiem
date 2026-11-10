@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 - Chờ thêm chút</title>
+  <style>
+    /* ===== BIẾN MÀU ===== */
+    :root {
+      --red: #e63946;
+      --blue: #3b82f6;
+      --white: #ffffff;
+      --bg: #0f172a;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      height: 100%;
+      overflow: hidden;
+    }
+
+    body {
+      font-family: 'Segoe UI', 'Roboto', system-ui, sans-serif;
+      background: radial-gradient(circle at 50% 40%, #1e293b, var(--bg) 65%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* ===== KHUNG GIỮA ===== */
+    .container {
+      text-align: center;
+      padding: 20px;
+      user-select: none;
+    }
+
+    /* ===== SỐ 404 ===== */
+    .error-code {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      font-size: clamp(120px, 28vw, 260px);
+      font-weight: 900;
+      line-height: 1;
+      letter-spacing: -6px;
+    }
+
+    .digit {
+      display: inline-block;
+      animation: bounce 2.4s ease-in-out infinite;
+      text-shadow: 0 0 60px currentColor;
+    }
+
+    .digit.red  { color: var(--red); }
+    .digit.blue { color: var(--blue); animation-delay: 0.3s; }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50%      { transform: translateY(-20px); }
+    }
+
+    /* ===== DÒNG CHỮ ===== */
+    .message {
+      margin-top: 20px;
+      font-size: clamp(18px, 3vw, 26px);
+      font-weight: 600;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: var(--white);
+      animation: fade 2.4s ease-in-out infinite;
+      transition: color 0.6s ease;
+    }
+
+    @keyframes fade {
+      0%, 100% { opacity: 0.35; }
+      50%      { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1 class="error-code">
+      <span class="digit red">4</span>
+      <span class="digit blue">0</span>
+      <span class="digit red">4</span>
+    </h1>
+    <p class="message">Chờ thêm chút</p>
+  </main>
+
+  <script>
+    // Đổi màu chữ luân phiên đỏ → trắng → xanh
+    const message = document.querySelector('.message');
+    const colors = ['#e63946', '#ffffff', '#3b82f6'];
+    let i = 0;
+
+    setInterval(() => {
+      i = (i + 1) % colors.length;
+      message.style.color = colors[i];
+    }, 1200);
+  </script>
+</body>
+</html>
