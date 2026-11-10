@@ -1,0 +1,753 @@
+[
+  {
+    "session": "02",
+    "lesson": 1,
+    "page": 7,
+    "title": "Ngành CNTT là gì? – Vai trò trong xã hội số và ứng dụng thực tế",
+    "summary": "CNTT sử dụng máy tính, phần mềm, dữ liệu và mạng để thu thập, xử lý, lưu trữ và truyền tải thông tin.",
+    "bullets": [
+      "Mô hình cơ bản: Input Processing Storage Output. Ví dụ nhập số tiền, tính tổng, lưu giao dịch rồi xuất hóa đơn.",
+      "Đầu vào có thể là văn bản, ảnh, cảm biến hoặc thao tác người dùng; đầu ra có thể là màn hình, báo cáo hoặc lệnh điều khiển.",
+      "Ứng dụng tiêu biểu: ngân hàng số, thương mại điện tử, bệnh viện, giao thông thông minh, giáo dục và tự động hóa.",
+      "Các vai trò nhân sự: phát triển phần mềm, phân tích dữ liệu, vận hành hệ thống, bảo mật, thiết kế UX/UI."
+    ],
+    "example": "Ví dụ: ứng dụng chuyển tiền nhận số tiền và người nhận xác thực, kiểm tra số dư ghi giao dịch thông báo thành công.",
+    "note": "CNTT không đồng nghĩa chỉ với việc lập trình; lập trình là một phần trong hệ sinh thái CNTT."
+  },
+  {
+    "session": "02",
+    "lesson": 2,
+    "page": 12,
+    "title": "Phân biệt IT – Computer Science – Software Engineering – Data Science",
+    "summary": "Bốn hướng tiếp cận công nghệ khác nhau về mục tiêu, phương pháp và sản phẩm đầu ra.",
+    "bullets": [
+      "IT (Information Technology): triển khai, quản trị và hỗ trợ hệ thống công nghệ cho tổ chức.",
+      "Computer Science (Khoa học máy tính): nghiên cứu thuật toán, cấu trúc dữ liệu, lý thuyết tính toán, AI và nền tảng tính toán.",
+      "Software Engineering (Kỹ thuật phần mềm): thiết kế, xây dựng, kiểm thử, triển khai, bảo trì sản phẩm phần mềm quy mô thực tế.",
+      "Data Science (Khoa học dữ liệu): thu thập, làm sạch, phân tích, trực quan hóa, xây dựng mô hình dự đoán từ dữ liệu.",
+      "Các lĩnh vực giao nhau nhưng khác trọng tâm: IT thiên về vận hành, CS thiên về nguyên lý, SE thiên về sản phẩm, DS thiên về tri thức từ dữ liệu."
+    ],
+    "example": "Với ứng dụng đặt xe: IT duy trì hạ tầng; CS cải tiến thuật toán tìm đường; SE làm ứng dụng; DS phân tích nhu cầu người dùng.",
+    "note": "Khi chọn ngành cần đối chiếu sở thích với công việc thực tế, không chỉ dựa vào tên gọi."
+  },
+  {
+    "session": "02",
+    "lesson": 3,
+    "page": 16,
+    "title": "Các lĩnh vực chính trong ngành CNTT",
+    "summary": "Hệ sinh thái số gồm nhiều chuyên môn phối hợp, không tồn tại tách rời.",
+    "bullets": [
+      "AI/ML: học từ dữ liệu để phân loại, dự đoán và tự động hóa quyết định.",
+      "Web/App: xây dựng ứng dụng và giao diện phục vụ người dùng; Mobile tập trung Android/iOS.",
+      "Cloud/DevOps: cung cấp hạ tầng, tự động triển khai và theo dõi độ ổn định dịch vụ.",
+      "Cybersecurity: phòng ngừa, phát hiện và ứng phó rủi ro tấn công, rò rỉ dữ liệu.",
+      "IoT, Big Data, UI/UX: kết nối thiết bị, xử lý dữ liệu lớn và tối ưu trải nghiệm."
+    ],
+    "example": "Một nền tảng nghe nhạc cần app, dữ liệu cá nhân hóa, máy chủ đám mây và cơ chế bảo mật tài khoản.",
+    "note": "Một hệ thống thực tế thường kết hợp nhiều chuyên ngành cùng lúc."
+  },
+  {
+    "session": "02",
+    "lesson": 4,
+    "page": 19,
+    "title": "Khái niệm Thông tin, Dữ liệu và Tri thức",
+    "summary": "Dữ liệu là các giá trị thô; thông tin là dữ liệu có ngữ cảnh; tri thức là hiểu biết rút ra để hành động.",
+    "bullets": [
+      "Data (dữ liệu): các con số, ký tự, log, ảnh, tín hiệu chưa được diễn giải.",
+      "Information (thông tin): dữ liệu được xử lý, mô tả ý nghĩa, đối tượng và thời điểm.",
+      "Knowledge (tri thức): quy luật, kết luận và kinh nghiệm có thể dùng để ra quyết định.",
+      "Mô hình DIKW: Data Information Knowledge Wisdom (hiểu biết để chọn hành động phù hợp).",
+      "Chất lượng dữ liệu ảnh hưởng trực tiếp chất lượng phân tích và quyết định."
+    ],
+    "example": "28, 31, 35 là dữ liệu; “nhiệt độ tăng ba ngày liên tiếp” là thông tin; “cần kiểm tra hệ thống làm mát” là tri thức ứng dụng.",
+    "note": "Không nhầm dữ liệu thô với nhận định hoặc tri thức đã có ý nghĩa."
+  },
+  {
+    "session": "02",
+    "lesson": 5,
+    "page": 22,
+    "title": "Tổng quan về Máy tính Điện tử",
+    "summary": "Máy tính thực thi chương trình bằng việc tiếp nhận đầu vào, tính toán, lưu trữ và xuất kết quả.",
+    "bullets": [
+      "Phần cứng: CPU, RAM, ROM, ổ lưu trữ, bo mạch chủ, thiết bị vào/ra.",
+      "Phần mềm: hệ điều hành, ứng dụng và chương trình điều khiển thiết bị.",
+      "CPU thực hiện lệnh; RAM chứa dữ liệu tạm khi chạy; SSD/HDD lưu dữ liệu lâu dài.",
+      "Thiết bị đầu vào: bàn phím, chuột, camera; đầu ra: màn hình, loa, máy in.",
+      "Kiến trúc máy tính phối hợp bộ xử lý, bộ nhớ, lưu trữ và bus truyền dữ liệu."
+    ],
+    "example": "Bật trình duyệt: ứng dụng được nạp từ SSD vào RAM, CPU chạy lệnh và GPU/màn hình hiển thị kết quả.",
+    "note": "RAM mất dữ liệu khi mất điện; SSD/HDD giữ dữ liệu ngay cả khi tắt máy."
+  },
+  {
+    "session": "02",
+    "lesson": 6,
+    "page": 26,
+    "title": "Đơn vị lưu trữ (bit, byte, KB, MB, GB, TB)",
+    "summary": "Bit là đơn vị dữ liệu cơ bản, byte thường bằng 8 bit; đơn vị lớn giúp biểu diễn dung lượng.",
+    "bullets": [
+      "1 byte = 8 bit (b khác B: Mb/s và MB/s không giống nhau).",
+      "Hệ thập phân (SI): 1 KB = 1.000 B, 1 MB = 1.000 KB, 1 GB = 1.000 MB.",
+      "Hệ nhị phân (IEC): 1 KiB = 1.024 B, 1 MiB = 1.024 KiB, 1 GiB = 1.024 MiB.",
+      "Tốc độ mạng hay dùng bit/giây; dung lượng file và ổ cứng thường dùng byte.",
+      "Khi đổi dung lượng cần xác định đơn vị đang theo hệ 1000 hay 1024."
+    ],
+    "example": "Tốc độ 80 Mb/s lý thuyết tương đương 10 MB/s, chưa trừ phần giao thức mạng.",
+    "note": "Đề thi dễ đánh lừa bằng chữ hoa B/ chữ thường b và KB so với KiB."
+  },
+  {
+    "session": "02",
+    "lesson": 7,
+    "page": 29,
+    "title": "Xử lý Thông tin bằng Máy tính Điện tử",
+    "summary": "CPU, bộ nhớ, lưu trữ và thiết bị vào/ra phối hợp để biến dữ liệu thành kết quả.",
+    "bullets": [
+      "CPU có ALU xử lý phép toán và CU điều khiển thực thi lệnh; cache hỗ trợ truy cập nhanh.",
+      "RAM lưu chương trình/dữ liệu đang được dùng; ROM/firmware hỗ trợ khởi tạo hệ thống.",
+      "SSD nhanh, không có bộ phận cơ học quay; HDD thường có chi phí trên GB thấp.",
+      "Mọi thao tác được thực hiện qua các chu trình đọc lệnh, giải mã, thực thi và ghi kết quả.",
+      "Hiệu năng phụ thuộc nhiều thành phần, không chỉ riêng tốc độ CPU."
+    ],
+    "example": "Khi mở trò chơi, dữ liệu đọc từ SSD RAM, CPU tính logic, GPU dựng hình, màn hình hiển thị.",
+    "note": "Phân biệt “đang xử lý” (CPU/RAM) và “lưu lâu dài” (SSD/HDD)."
+  },
+  {
+    "session": "03",
+    "lesson": 1,
+    "page": 34,
+    "title": "Tổng quan về Hệ điều hành (Operating System Overview)",
+    "summary": "Hệ điều hành là lớp trung gian giữa phần cứng, ứng dụng và người dùng.",
+    "bullets": [
+      "Nhiệm vụ cốt lõi: quản lý CPU/tiến trình, RAM, thiết bị I/O, hệ thống file và quyền truy cập.",
+      "Ví dụ: Windows, macOS, Linux, Android; mỗi hệ có giao diện và công cụ khác nhau.",
+      "Kernel là phần lõi điều phối tài nguyên; shell/GUI là giao diện để tương tác.",
+      "Ứng dụng gửi yêu cầu qua API/system call; hệ điều hành điều phối phần cứng và tài nguyên.",
+      "Tính ổn định và an toàn của OS phụ thuộc cập nhật, quyền người dùng và cấu hình."
+    ],
+    "example": "Khi in tài liệu, ứng dụng yêu cầu hệ điều hành dùng driver máy in thay vì điều khiển trực tiếp phần cứng.",
+    "note": "Không đồng nhất hệ điều hành với một ứng dụng như Word hay Chrome."
+  },
+  {
+    "session": "03",
+    "lesson": 2,
+    "page": 37,
+    "title": "Quy tắc Đặt tên Chuẩn Developer (Naming Conventions)",
+    "summary": "Tên file/thư mục rõ nghĩa và nhất quán giúp dự án dễ bảo trì và chạy đa nền tảng.",
+    "bullets": [
+      "Nên dùng chữ không dấu, chữ số, dấu gạch nối hoặc gạch dưới cho tên kỹ thuật.",
+      "Tránh ký tự hệ thống nhạy cảm như < > : \" / \\ | ? * trên Windows.",
+      "Phân biệt quy tắc snake_case, kebab-case, camelCase, PascalCase theo ngữ cảnh.",
+      "Một số hệ phân biệt hoa/thường: README.md và readme.md có thể là hai tệp khác nhau trên Linux.",
+      "Đặt tên mô tả công dụng và phiên bản; tránh “final_new_2_lan_cuoi”."
+    ],
+    "example": "Ví dụ: student_records.csv, user-profile.ts, src/components/LoginForm.jsx.",
+    "note": "Nếu repo có nhiều nền tảng, chọn quy tắc tên file tương thích Windows/macOS/Linux."
+  },
+  {
+    "session": "03",
+    "lesson": 3,
+    "page": 40,
+    "title": "Đường dẫn Tuyệt đối & Tương đối (Absolute & Relative Path)",
+    "summary": "Đường dẫn chỉ vị trí tệp; đường dẫn tuyệt đối tính từ gốc, tương đối tính từ vị trí làm việc hiện tại.",
+    "bullets": [
+      "Tuyệt đối Windows: C:\\Users\\Student\\Documents\\report.docx.",
+      "Tuyệt đối Linux/macOS: /home/student/projects/app/main.py.",
+      "Tương đối: ./data/file.csv (thư mục hiện tại), ../images/logo.png (thư mục cha).",
+      "Dấu phân cách: Windows thường dùng \\; Unix dùng /; nhiều công cụ chấp nhận /.",
+      "Đường dẫn tương đối thường linh hoạt hơn khi chia sẻ dự án nhưng phụ thuộc working directory."
+    ],
+    "example": "Đang ở /home/student/project, “./src/main.py” trỏ tới /home/student/project/src/main.py.",
+    "note": "Nếu báo “file not found”, kiểm tra thư mục hiện hành và đường dẫn thực tế."
+  },
+  {
+    "session": "03",
+    "lesson": 4,
+    "page": 43,
+    "title": "Kiến trúc Hệ thống File & Cây thư mục (File System Tree)",
+    "summary": "File system tổ chức các tệp vào thư mục theo cấu trúc phân cấp.",
+    "bullets": [
+      "Thư mục gốc là điểm bắt đầu cây; thư mục con tạo cấp lồng nhau.",
+      "Windows dùng ổ đĩa C:, D:; Linux/macOS thường gắn hệ thống vào cây /.",
+      "File có tên, loại, kích thước, vị trí và siêu dữ liệu liên quan.",
+      "Cấu trúc có phân cấp giúp quản lý, tìm kiếm và cấp quyền theo phạm vi.",
+      "Phân biệt thư mục, tệp, đường dẫn, phần mở rộng và liên kết/shortcut."
+    ],
+    "example": "Dự án mẫu: project/ gồm src/, assets/, docs/, tests/ và README.md.",
+    "note": "Không để tất cả tệp vào một thư mục duy nhất nếu dự án phức tạp."
+  },
+  {
+    "session": "03",
+    "lesson": 5,
+    "page": 46,
+    "title": "Tổ chức Cây thư mục Cá nhân (Personal File Organization)",
+    "summary": "Tổ chức thư mục khoa học làm giảm mất thời gian tìm kiếm, nhầm phiên bản và thất lạc tài liệu.",
+    "bullets": [
+      "Chia theo dự án/học kỳ/môn học; mỗi cấp có phạm vi và ý nghĩa rõ ràng.",
+      "Áp dụng quy tắc đặt tên nhất quán và tránh nhiều bản “cuối cùng”.",
+      "Tách Source, Docs, Data, Output, Archive; phân loại file gốc với bản xuất.",
+      "Dọn dẹp định kỳ, sao lưu tài liệu quan trọng, hạn chế để dữ liệu trên Desktop/Downloads.",
+      "Dùng tìm kiếm hệ thống và metadata khi số lượng file lớn."
+    ],
+    "example": "Ví dụ: HocTap/2026/HK1/CNTT/Session03/ gồm notes/, exercises/, submissions/.",
+    "note": "Có cấu trúc chuẩn thì người khác mở máy cũng hiểu cách tìm tệp."
+  },
+  {
+    "session": "03",
+    "lesson": 6,
+    "page": 50,
+    "title": "Hiển thị Đuôi File & File Ẩn Hệ thống (Extensions & Hidden Items)",
+    "summary": "Phần mở rộng và tệp ẩn cung cấp thông tin hữu ích nhưng dễ bị lợi dụng để ngụy trang file độc hại.",
+    "bullets": [
+      "Phần mở rộng: .txt, .pdf, .exe, .jpg giúp nhận diện định dạng, không đảm bảo nội dung thật.",
+      "Bật “File name extensions” và “Hidden items” khi cần kiểm tra kỹ thuật trên Windows.",
+      "Linux/macOS dùng dấu chấm đầu tên (như .gitignore) để biểu thị tệp ẩn theo quy ước.",
+      "Cẩn thận file “report.pdf.exe” nếu Windows đang ẩn phần mở rộng thực.",
+      "Không sửa/xóa tệp hệ thống ẩn nếu không hiểu chức năng; quét malware khi nghi ngờ."
+    ],
+    "example": "Tệp giả “invoice.pdf.exe” là chương trình thực thi, không phải tài liệu PDF.",
+    "note": "Hiển thị đuôi tệp làm giảm nguy cơ bấm nhầm tệp giả mạo."
+  },
+  {
+    "session": "05",
+    "lesson": 1,
+    "page": 54,
+    "title": "Các Lệnh Điều Hướng Hệ Thống File & Đường Dẫn",
+    "summary": "Terminal giúp di chuyển và quản lý tệp bằng câu lệnh, hiệu quả khi thao tác lặp hoặc từ xa.",
+    "bullets": [
+      "pwd: in thư mục hiện tại trên Unix/PowerShell; cd: đổi thư mục.",
+      "ls (Unix/PowerShell) hoặc dir (CMD): liệt kê tệp và thư mục.",
+      "cd ..: lên một cấp; cd <path>: vào đường dẫn; cd / (Unix): về root.",
+      "Dùng đường dẫn trong dấu nháy nếu tên có khoảng trắng; kiểm tra hệ điều hành/cú pháp shell.",
+      "Ưu tiên xem lại đường dẫn và nội dung trước khi chạy lệnh thay đổi dữ liệu."
+    ],
+    "example": "Ví dụ: pwd ls cd \"My Project\" ls; trên Windows CMD dùng cd /d D:\\Project.",
+    "note": "Không nhầm dấu / của Unix với ổ C: trên Windows."
+  },
+  {
+    "session": "05",
+    "lesson": 2,
+    "page": 58,
+    "title": "Các Lệnh Thao Tác File & Thư Mục (CRUD)",
+    "summary": "CRUD gồm Create, Read, Update/Move và Delete; lệnh khác nhau tùy môi trường.",
+    "bullets": [
+      "Tạo thư mục: mkdir; tạo tệp: touch (Unix) hoặc New-Item (PowerShell).",
+      "Đọc nội dung: cat (Unix/PowerShell), type (CMD).",
+      "Sao chép: cp (Unix/PowerShell), copy (CMD); di chuyển/đổi tên: mv/move/ren.",
+      "Xóa: rm (Unix/PowerShell), del/rmdir (CMD); một số thao tác xóa bỏ qua thùng rác.",
+      "Đảm bảo quyền ghi và phân biệt tệp với thư mục, đặc biệt khi xóa đệ quy."
+    ],
+    "example": "Ví dụ trên Unix: mkdir demo; touch demo/note.txt; cp demo/note.txt demo/copy.txt; ls demo.",
+    "note": "Không chạy lệnh xóa đệ quy trên đường dẫn chưa kiểm tra kỹ."
+  },
+  {
+    "session": "05",
+    "lesson": 3,
+    "page": 61,
+    "title": "CLI vs GUI & Cấu Trúc Câu Lệnh Terminal",
+    "summary": "GUI dựa trên giao diện đồ họa; CLI dùng lệnh gồm chương trình, tùy chọn và đối số.",
+    "bullets": [
+      "Mẫu chung: command [options] [arguments].",
+      "CLI phù hợp tự động hóa, làm việc trên máy chủ, xử lý hàng loạt; GUI trực quan cho người mới.",
+      "Các option thường có dạng -a, -l, --help; quy tắc phụ thuộc từng lệnh.",
+      "Dùng --help, man hoặc Get-Help để xem ý nghĩa tham số trước khi thao tác.",
+      "Thông báo lỗi và exit code giúp biết lệnh có thành công hay không."
+    ],
+    "example": "Ví dụ: ls -la /home/student hoặc git status --short.",
+    "note": "Dấu cách, dấu ngoặc kép và thứ tự đối số có thể đổi hoàn toàn cách thực thi."
+  },
+  {
+    "session": "05",
+    "lesson": 4,
+    "page": 65,
+    "title": "Các Lỗi Thường Gặp Khi Làm Việc Với Terminal",
+    "summary": "Chẩn đoán lỗi dựa vào thông báo, thư mục đang đứng, quyền truy cập và cú pháp lệnh.",
+    "bullets": [
+      "Command not found / not recognized: tên lệnh sai, chưa cài hoặc PATH chưa đúng.",
+      "No such file or directory / File not found: sai đường dẫn hoặc tệp không tồn tại.",
+      "Permission denied / Access denied: thiếu quyền; không vội dùng quyền quản trị.",
+      "File exists: trùng tên tệp/thư mục; chọn tên khác hoặc xử lý theo mục đích.",
+      "Thao tác chẩn đoán: đọc thông báo pwd/cd ls/dir kiểm tra dấu nháy thử lệnh an toàn."
+    ],
+    "example": "Ví dụ: “python: command not found” kiểm tra cài Python, lệnh python3 và PATH.",
+    "note": "Không sửa lỗi bằng cách xóa bừa file hoặc luôn chạy Administrator/sudo."
+  },
+  {
+    "session": "07",
+    "lesson": 1,
+    "page": 70,
+    "title": "Đọc & Định Vị Tập Tin Trên Windows & macOS",
+    "summary": "Nắm lệnh xem nội dung tệp, tìm kiếm và định vị giúp xử lý log/tài liệu trên CLI.",
+    "bullets": [
+      "Unix: cat xem toàn bộ, less để phân trang, head/tail xem đầu/cuối tệp.",
+      "PowerShell: Get-Content, Get-Content -Tail 20, Get-ChildItem; CMD: type, dir.",
+      "where (CMD), where.exe (Windows), which/command -v (Unix) tìm vị trí chương trình.",
+      "find (Unix) hoặc Get-ChildItem -Recurse lọc đường dẫn theo điều kiện.",
+      "Log lớn nên xem từng đoạn, tránh in hàng nghìn dòng gây khó tìm thông tin."
+    ],
+    "example": "Ví dụ: tail -n 30 app.log (Unix); Get-Content app.log -Tail 30 (PowerShell).",
+    "note": "Chọn lệnh phù hợp với shell, tránh dùng lệnh Linux trên CMD rồi tưởng máy lỗi."
+  },
+  {
+    "session": "07",
+    "lesson": 2,
+    "page": 74,
+    "title": "Lọc Dữ Liệu & Kỹ Thuật Đường Ống Pipe (|)",
+    "summary": "Pipe lấy đầu ra lệnh trước làm đầu vào lệnh sau, hữu ích để lọc và xử lý kết quả.",
+    "bullets": [
+      "Dấu | kết nối các lệnh thành chuỗi xử lý.",
+      "Unix: grep lọc dòng theo mẫu; wc đếm; sort sắp xếp; uniq gộp dòng liên tiếp.",
+      "Windows CMD: findstr; PowerShell: Select-String, Where-Object.",
+      "Pipe trong PowerShell thường truyền object có thuộc tính thay vì chỉ văn bản.",
+      "Lệnh trước không thành công có thể khiến bước sau trả về kết quả rỗng hoặc sai."
+    ],
+    "example": "Ví dụ Unix: grep \"ERROR\" app.log | wc -l; PowerShell: Get-Content app.log | Select-String ERROR.",
+    "note": "Phân biệt ký tự | (pipe) với > (ghi ra tệp)."
+  },
+  {
+    "session": "07",
+    "lesson": 3,
+    "page": 78,
+    "title": "Luồng Dữ Liệu & Toán Tử Chuyển Hướng (Redirection >, >>)",
+    "summary": "Luồng chuẩn gồm stdin, stdout và stderr; chuyển hướng giúp ghi kết quả vào file.",
+    "bullets": [
+      "stdin (0): dữ liệu đầu vào; stdout (1): đầu ra thông thường; stderr (2): thông báo lỗi.",
+      "> ghi đè hoặc tạo file; >> nối thêm vào cuối file (chú ý ghi đè mất dữ liệu).",
+      "Các shell có cú pháp chuyển hướng lỗi riêng; Unix thường dùng 2> errors.log.",
+      "Kết hợp pipe để xử lý trung gian và redirection để lưu kết quả.",
+      "Kiểm tra quyền ghi, tên file và nội dung trước khi ghi đè."
+    ],
+    "example": "Ví dụ Unix: ls -la > files.txt; grep \"WARN\" app.log >> warnings.txt.",
+    "note": "Nếu muốn giữ nội dung cũ, dùng >> thay vì >."
+  },
+  {
+    "session": "07",
+    "lesson": 4,
+    "page": 81,
+    "title": "Viết, Chạy & Thẩm Định Script AI (Quy Trình An Toàn Cho Kỹ Sư CNTT)",
+    "summary": "Script do AI tạo cần được hiểu, rà soát và thử nghiệm an toàn trước khi chạy.",
+    "bullets": [
+      "Đọc mã, xác định tệp và lệnh sẽ truy cập, đặc biệt các thao tác xóa hoặc tải/chạy mã từ Internet.",
+      "Kiểm tra đầu vào, biến môi trường, quyền thực thi và phạm vi thư mục.",
+      "Chạy thử trên thư mục mẫu, dữ liệu giả; xem log và sử dụng dry-run nếu hỗ trợ.",
+      "Không dán API key/mật khẩu vào prompt, script công khai hoặc repository.",
+      "Chỉ cấp quyền cần thiết; sao lưu dữ liệu trước khi áp dụng thay đổi hàng loạt."
+    ],
+    "example": "Ví dụ: script đổi tên 500 file nên thử với 5 file mẫu và in danh sách thay đổi trước.",
+    "note": "AI có thể tạo lệnh sai hoặc nguy hiểm; người chạy phải tự thẩm định."
+  },
+  {
+    "session": "07",
+    "lesson": 5,
+    "page": 84,
+    "title": "Giới Thiệu Shell Script & Tự Động Hóa Dòng Lệnh",
+    "summary": "Shell script đóng gói chuỗi lệnh để chạy lặp, giảm thao tác thủ công và sai sót.",
+    "bullets": [
+      "Unix thường dùng .sh với shebang, ví dụ #!/bin/sh; Windows PowerShell dùng .ps1.",
+      "Biến, điều kiện if, vòng lặp for/while cho phép thực thi theo tình huống.",
+      "Đặt đường dẫn trong dấu nháy, kiểm tra sự tồn tại file và mã trả về trước bước tiếp theo.",
+      "Viết log, xử lý lỗi và tách cấu hình khỏi mã để dễ bảo trì.",
+      "Trước khi chạy script tải về, phải kiểm tra nội dung và nguồn gốc."
+    ],
+    "example": "Ví dụ script sao lưu: tạo thư mục ngày hiện tại, sao chép tài liệu, kiểm tra bản sao và ghi log.",
+    "note": "Tự động hóa tốt không có nghĩa là bỏ qua kiểm soát lỗi."
+  },
+  {
+    "session": "09",
+    "lesson": 1,
+    "page": 89,
+    "title": "Markdown Là Gì? Khái Niệm & Phạm Vi Ứng Dụng",
+    "summary": "Markdown là cú pháp đánh dấu nhẹ giúp viết tài liệu có cấu trúc bằng văn bản thuần.",
+    "bullets": [
+      "Tệp thường có đuôi .md, dễ quản lý phiên bản bằng Git và hiển thị trên GitHub.",
+      "Phân biệt Plain Text, Markdown nguồn và Markdown đã render thành giao diện.",
+      "Ứng dụng: README, tài liệu dự án, hướng dẫn cài đặt, ghi chú, issue và prompt.",
+      "Cú pháp ngắn, dễ đọc cả khi chưa được render; không phải trình soạn thảo WYSIWYG.",
+      "Nội dung tốt cần tiêu đề, mục lục hợp lý, ví dụ và cách sử dụng rõ ràng."
+    ],
+    "example": "Ví dụ: # Giới thiệu; ## Cài đặt; ### Chạy thử; mỗi cấp tiêu đề thể hiện cấu trúc.",
+    "note": "Dùng Markdown để cấu trúc thông tin, không dùng nhiều kiểu trang trí gây rối."
+  },
+  {
+    "session": "09",
+    "lesson": 2,
+    "page": 93,
+    "title": "Thực Hành Cú Pháp Markdown Cơ Bản (Heading, Emphasis, List, Link, Image & Blockquote)",
+    "summary": "Các phần tử Markdown cơ bản đủ để viết hầu hết tài liệu kỹ thuật đơn giản.",
+    "bullets": [
+      "Heading: # đến ######; thêm khoảng trắng sau dấu #.",
+      "Nhấn mạnh: **đậm**, *nghiêng*; inline code đặt trong dấu `.",
+      "Danh sách: - mục hoặc 1. mục; thụt đầu dòng cho danh sách lồng nhau.",
+      "Link: [nhãn](https://example.com); ảnh: ![mô tả](image.png).",
+      "Blockquote: > nội dung; dùng dòng trống để ngăn các khối khi cần."
+    ],
+    "example": "Ví dụ: ## Cách dùng; - Bước 1; - Bước 2; [GitHub](https://github.com).",
+    "note": "Đường dẫn ảnh trong Markdown là đường dẫn tương đối hoặc URL hợp lệ."
+  },
+  {
+    "session": "09",
+    "lesson": 3,
+    "page": 97,
+    "title": "Cú Pháp Markdown Nâng Cao: Code Block, Table, Task List & Chuẩn Hóa README.md",
+    "summary": "README tốt cần có mô tả, điều kiện, cài đặt, chạy thử, cấu trúc và cách xử lý lỗi.",
+    "bullets": [
+      "Code block dùng ba dấu backtick và tên ngôn ngữ như bash hoặc python để tô màu cú pháp.",
+      "Bảng dùng | phân cột và hàng --- ngăn đầu bảng với nội dung.",
+      "Task list: - [ ] chưa làm; - [x] đã hoàn thành.",
+      "Mục README gợi ý: Giới thiệu Tính năng Yêu cầu Cài đặt Cách dùng Cấu trúc Lưu ý.",
+      "Viết câu lệnh có thể sao chép được; không đưa khóa bí mật vào ví dụ công khai."
+    ],
+    "example": "Ví dụ checklist: - [x] Tạo dự án; - [ ] Kiểm thử; - [ ] Phát hành.",
+    "note": "README không phải chỗ để dán toàn bộ code hoặc mật khẩu."
+  },
+  {
+    "session": "09",
+    "lesson": 4,
+    "page": 101,
+    "title": "Markdown Cho Trợ Lý AI: Kỹ Thuật Prompt Có Cấu Trúc & Quản Trị Tri Thức",
+    "summary": "Prompt rõ vai trò, bối cảnh, nhiệm vụ và định dạng đầu ra giúp AI làm đúng mục tiêu hơn.",
+    "bullets": [
+      "Dùng các heading Markdown để phân tách: Vai trò, Bối cảnh, Dữ liệu đầu vào, Yêu cầu, Giới hạn, Đầu ra.",
+      "Đưa tiêu chí kiểm tra và ví dụ cụ thể thay vì chỉ viết “làm thật tốt”.",
+      "Tách dữ liệu nguồn với chỉ dẫn; tránh đưa thông tin bí mật hoặc dữ liệu nhạy cảm.",
+      "Lưu kết quả trong ghi chú có cấu trúc, ngày cập nhật và chủ đề để dễ tìm lại.",
+      "Kiểm tra độc lập nội dung AI sinh ra trước khi sử dụng trong dự án thực."
+    ],
+    "example": "Ví dụ prompt: ## Mục tiêu: tóm tắt log; ## Đầu vào: 20 dòng lỗi; ## Đầu ra: nguyên nhân, cách sửa, kiểm tra.",
+    "note": "Prompt có cấu trúc tăng khả năng nhất quán nhưng không bảo đảm AI luôn đúng."
+  },
+  {
+    "session": "11",
+    "lesson": 1,
+    "page": 106,
+    "title": "Làm Quen Word/Docs: Làm Chủ Heading Styles & Tự Động Hóa Mục Lục (Auto TOC)",
+    "summary": "Dùng Heading Styles để tạo cấu trúc tài liệu và sinh mục lục tự động.",
+    "bullets": [
+      "Heading 1 cho chương, Heading 2 cho mục, Heading 3 cho tiểu mục; tránh chỉ tô đậm và tăng cỡ chữ thủ công.",
+      "Word: References Table of Contents; Docs: Insert Table of contents.",
+      "Sau khi đổi tiêu đề/số trang, cập nhật mục lục để hiển thị đúng.",
+      "Dùng page break và danh sách chuẩn thay vì nhấn Enter liên tục để căn bố cục.",
+      "Tách tiêu đề, thân bài, chú thích hình/bảng để báo cáo dễ đọc."
+    ],
+    "example": "Ví dụ: 1. Giới thiệu (Heading 1) 1.1 Mục tiêu (Heading 2) 1.1.1 Phạm vi (Heading 3).",
+    "note": "Không giả lập heading chỉ bằng đổi font: mục lục có thể không nhận."
+  },
+  {
+    "session": "11",
+    "lesson": 2,
+    "page": 111,
+    "title": "Làm Quen Excel/Sheets: Tư Duy Database Chuẩn & Kỹ Thuật Lọc Dữ Liệu AutoFilter",
+    "summary": "Bảng dữ liệu tốt có một hàng tiêu đề và mỗi dòng là một bản ghi.",
+    "bullets": [
+      "Mỗi cột là một trường dữ liệu, kiểu dữ liệu nhất quán; mỗi hàng là một đối tượng/sự kiện.",
+      "Tránh ô gộp, hàng trống chen giữa và nhiều bảng trộn trong cùng vùng dữ liệu.",
+      "Bật Filter để lọc theo giá trị, ngày tháng, điều kiện hoặc từ khóa.",
+      "Sắp xếp nhiều cột cần chọn toàn bộ bảng để không làm lệch dữ liệu.",
+      "Kiểm tra dữ liệu trùng, thiếu và khoảng trắng thừa trước khi tổng hợp."
+    ],
+    "example": "Ví dụ bảng Sinh viên: MSSV | Họ tên | Lớp | Điểm; lọc Điểm >= 8 để xem danh sách giỏi.",
+    "note": "Lọc chỉ ẩn hàng không khớp; không xóa những dòng đó khỏi dữ liệu gốc."
+  },
+  {
+    "session": "11",
+    "lesson": 3,
+    "page": 116,
+    "title": "Làm Quen Hàm Excel: Tự Động Hóa Tra Cứu & Nối Bảng Tính Bằng VLOOKUP",
+    "summary": "VLOOKUP tìm khóa ở cột đầu bảng và trả về giá trị tại cột chỉ định.",
+    "bullets": [
+      "Cú pháp: =VLOOKUP(lookup_value, table_array, col_index_num, FALSE).",
+      "Dùng FALSE để tìm khớp chính xác khi tra MSSV, mã sản phẩm, mã lớp.",
+      "Cố định vùng tra cứu bằng $A$2:$D$100 khi sao chép công thức.",
+      "#N/A có thể do không tìm thấy khóa, sai định dạng hoặc khoảng trắng thừa.",
+      "VLOOKUP chỉ tìm ở cột đầu của table_array và tra về phía phải; có thể dùng XLOOKUP nếu môi trường hỗ trợ."
+    ],
+    "example": "Ví dụ: =VLOOKUP(A2,$F$2:$H$100,3,FALSE) tìm dữ liệu ở cột thứ ba trong bảng F:H.",
+    "note": "Nếu cột chỉ số vượt số cột trong vùng, công thức trả lỗi."
+  },
+  {
+    "session": "11",
+    "lesson": 4,
+    "page": 121,
+    "title": "Làm Quen PowerPoint/Slides: Thiết Kế Báo Cáo Kỹ Thuật Trực Quan & Chuẩn 10/20/30",
+    "summary": "Slide là công cụ hỗ trợ diễn đạt ý chính, không phải bản sao nguyên văn báo cáo.",
+    "bullets": [
+      "Quy tắc 10/20/30 thường gợi ý 10 slide, trình bày 20 phút và font khoảng 30pt; điều chỉnh theo bối cảnh.",
+      "Mỗi slide tập trung vào một thông điệp; dùng sơ đồ/bảng/biểu đồ khi có ích.",
+      "Giảm chữ, đảm bảo tương phản, cỡ font đọc được và bố cục nhất quán.",
+      "Trình bày vấn đề phương pháp kết quả khuyến nghị rõ ràng.",
+      "Kiểm tra biểu đồ có đơn vị, tên trục, nguồn dữ liệu khi cần."
+    ],
+    "example": "Ví dụ: slide “Kết quả kiểm thử” dùng 1 biểu đồ, 2 phát hiện nổi bật, 1 kết luận.",
+    "note": "10/20/30 là nguyên tắc hướng dẫn, không phải quy định bắt buộc cho mọi bài."
+  },
+  {
+    "session": "15",
+    "lesson": 1,
+    "page": 127,
+    "title": "Quản lý Quyền chia sẻ (Permissions: Viewer, Commenter, Editor) & Tránh Rò rỉ Dữ liệu",
+    "summary": "Cấp quyền phù hợp giúp chia sẻ tài liệu mà không cho người ngoài chỉnh sửa hoặc xem thông tin quá mức.",
+    "bullets": [
+      "Viewer: xem; Commenter: xem và nhận xét; Editor: chỉnh sửa nội dung và có thể có quyền quản lý chia sẻ tùy hệ thống.",
+      "Nguyên tắc least privilege: chỉ cấp quyền tối thiểu cần cho công việc.",
+      "Phân biệt chia sẻ riêng theo email, thành viên tổ chức và liên kết công khai.",
+      "Rà soát quyền trước khi gửi link, thu hồi quyền sau khi dự án kết thúc.",
+      "Kiểm tra cài đặt tải xuống, sao chép, lịch sử phiên bản và audit log nếu công cụ hỗ trợ."
+    ],
+    "example": "Ví dụ: nhà đầu tư xem báo cáo = Viewer; chuyên gia góp ý = Commenter; nhóm soạn = Editor.",
+    "note": "“Ai có link đều xem được” có thể gây lộ thông tin nếu vô tình chuyển tiếp."
+  },
+  {
+    "session": "15",
+    "lesson": 2,
+    "page": 131,
+    "title": "Văn hóa Giao tiếp Nhóm qua Công cụ Doanh nghiệp (Lark Suite, Slack, Teams)",
+    "summary": "Giao tiếp hiệu quả cần đúng kênh, nội dung dễ theo dõi và kết luận hành động rõ ràng.",
+    "bullets": [
+      "Đặt kênh theo dự án/chủ đề, tránh trộn thông báo chung với debug kỹ thuật.",
+      "Tin nhắn nêu bối cảnh, vấn đề, đường dẫn/bằng chứng, người phụ trách và hạn xử lý.",
+      "Dùng thread hoặc trả lời theo chuỗi để giữ ngữ cảnh, tránh tạo nhiều chủ đề rời rạc.",
+      "Phân biệt tin cần phản hồi ngay với thông tin chỉ để tham khảo; gắn tag vừa đủ.",
+      "Không chia sẻ mật khẩu, token, dữ liệu nội bộ nhạy cảm vào kênh không được cấp quyền."
+    ],
+    "example": "Ví dụ: “Lỗi đăng nhập môi trường test, xảy ra lúc 14:05, log đính kèm, nhờ @A kiểm tra trước 16:00”.",
+    "note": "Giao tiếp nhóm không chỉ là chat; cần có quyết định và cập nhật trạng thái."
+  },
+  {
+    "session": "15",
+    "lesson": 3,
+    "page": 135,
+    "title": "Local Storage vs Cloud Storage & Mô hình Hybrid Workflow",
+    "summary": "Mô hình Hybrid phối hợp lưu trữ cục bộ và đám mây để vừa làm việc linh hoạt vừa giảm rủi ro.",
+    "bullets": [
+      "Local: nhanh/offline/chủ động; rủi ro hỏng máy, mất thiết bị, thiếu đồng bộ.",
+      "Cloud: truy cập đa thiết bị, đồng bộ, cộng tác; phụ thuộc kết nối, chính sách quyền và nhà cung cấp.",
+      "Hybrid: làm việc trên máy cá nhân, dùng Git/cloud cho bản chia sẻ và sao lưu có kiểm soát.",
+      "Quy tắc sao lưu 3-2-1: 3 bản, 2 loại phương tiện, 1 bản khác vị trí khi phù hợp.",
+      "Cần quản lý phiên bản, quyền và xung đột đồng bộ; không coi đồng bộ là bản sao lưu đầy đủ."
+    ],
+    "example": "Ví dụ: code local commit Git push remote; báo cáo lưu trên Drive và xuất bản dự phòng định kỳ.",
+    "note": "Xóa nhầm file trong thư mục đồng bộ có thể xóa ở mọi thiết bị."
+  },
+  {
+    "session": "17",
+    "lesson": 1,
+    "page": 140,
+    "title": "Kiến trúc Trình duyệt & Developer Tools (F12)",
+    "summary": "Trình duyệt tải tài nguyên, phân tích HTML/CSS/JS, xây dựng giao diện và thực thi ứng dụng web.",
+    "bullets": [
+      "Các phần quan trọng: trình kết xuất trang, engine JavaScript, networking, bộ nhớ đệm, storage.",
+      "DOM biểu diễn cấu trúc tài liệu; CSS quyết định phong cách; JavaScript tạo tương tác.",
+      "F12 hoặc Ctrl+Shift+I (Windows) thường mở Developer Tools.",
+      "DevTools có Elements, Console, Network, Sources, Application/Storage và Performance.",
+      "Công cụ phát triển cho phép kiểm tra chứ không tự động sửa vĩnh viễn mã website trên máy chủ."
+    ],
+    "example": "Ví dụ: trang hiển thị sai Elements kiểm tra HTML/CSS Network xem tài nguyên tải lỗi.",
+    "note": "Sửa HTML bằng Inspect chỉ có hiệu lực tạm thời trên trang đang xem."
+  },
+  {
+    "session": "17",
+    "lesson": 2,
+    "page": 144,
+    "title": "Quản lý Bookmark Khoa học & Chia Profile Trình duyệt",
+    "summary": "Bookmark lưu địa chỉ trang, profile tách dữ liệu duyệt web theo mục đích.",
+    "bullets": [
+      "Đặt bookmark theo thư mục môn học, dự án, công cụ; bỏ liên kết đã hết dùng.",
+      "Profile tách lịch sử, cookie, session đăng nhập, một số extension và cài đặt.",
+      "Dùng profile học tập và công việc để giảm nhầm tài khoản và dữ liệu.",
+      "Đăng nhập đồng bộ bookmark có lợi nhưng cần bảo mật tài khoản đồng bộ.",
+      "Sao lưu/export bookmark khi chuyển trình duyệt hoặc máy."
+    ],
+    "example": "Ví dụ: profile Cá nhân và profile Trường học có thể đăng nhập hai tài khoản Google khác nhau.",
+    "note": "Bookmark không thay thế thư viện tri thức có ghi chú và phân loại."
+  },
+  {
+    "session": "17",
+    "lesson": 3,
+    "page": 148,
+    "title": "Bộ nhớ Trình duyệt Cơ bản (Cache vs Cookies)",
+    "summary": "Cache và cookie cùng được lưu trên thiết bị nhưng khác chức năng.",
+    "bullets": [
+      "Cache lưu bản sao tài nguyên như hình, CSS, JS để tải lại nhanh hơn.",
+      "Cookies lưu dữ liệu nhỏ theo website, thường dùng để duy trì phiên đăng nhập hoặc tùy chọn.",
+      "Xóa cache có thể giải quyết tài nguyên cũ; xóa cookie thường khiến website yêu cầu đăng nhập lại.",
+      "Cache không đồng nghĩa dữ liệu cá nhân, cookie không phải lúc nào cũng là mã độc.",
+      "Khi xử lý lỗi web cần biết đang xóa loại dữ liệu gì và hậu quả của nó."
+    ],
+    "example": "Ví dụ: web chưa cập nhật giao diện hard reload/xóa cache; web bị lỗi đăng nhập kiểm tra cookie.",
+    "note": "Không xóa toàn bộ dữ liệu duyệt web nếu chưa sao lưu các trạng thái quan trọng."
+  },
+  {
+    "session": "17",
+    "lesson": 4,
+    "page": 152,
+    "title": "Phân tách Profile Trình duyệt để không lẫn lộn Tài khoản",
+    "summary": "Profile là môi trường đăng nhập riêng, hữu ích khi dùng nhiều tài khoản trên cùng thiết bị.",
+    "bullets": [
+      "Mỗi profile thường có cookie, lịch sử, bookmark và extension riêng.",
+      "Tạo profile theo vai trò: trường học, cá nhân, dự án khách hàng.",
+      "Đặt tên và màu dễ phân biệt, kiểm tra tài khoản đang đăng nhập trước khi gửi thông tin.",
+      "Profile không phải máy ảo hay cơ chế cách ly bảo mật tuyệt đối; người dùng cùng OS có thể truy cập dữ liệu nếu có quyền.",
+      "Khóa máy và đăng xuất khi dùng máy công cộng."
+    ],
+    "example": "Ví dụ: GitHub cá nhân và GitHub tổ chức trong hai profile để tránh push vào sai tài khoản.",
+    "note": "Chế độ ẩn danh không tương đương với profile tách biệt lâu dài."
+  },
+  {
+    "session": "17",
+    "lesson": 5,
+    "page": 156,
+    "title": "Cài đặt & Quản trị Hệ sinh thái Extensions theo Chủ đề",
+    "summary": "Extension bổ sung tính năng nhưng có thể yêu cầu quyền truy cập dữ liệu và làm chậm trình duyệt.",
+    "bullets": [
+      "Chỉ cài từ nguồn uy tín, xem tên nhà phát triển, đánh giá, quyền và ngày cập nhật.",
+      "Quyền “Read and change all your data on all websites” là quyền rộng, cần cân nhắc kỹ.",
+      "Loại tiện ích trùng chức năng, không dùng; cập nhật hoặc gỡ extension lỗi thời.",
+      "Phân nhóm theo học tập, lập trình, bảo mật, năng suất; dùng profile để giảm xung đột.",
+      "Extension không an toàn có thể thu thập dữ liệu trang hoặc phá vỡ giao diện web."
+    ],
+    "example": "Ví dụ: extension đọc màu trang chỉ cần quyền phù hợp; không nên mặc định cấp quyền truy cập mọi website.",
+    "note": "Nhiều extension không đồng nghĩa năng suất hoặc an toàn cao hơn."
+  },
+  {
+    "session": "17",
+    "lesson": 6,
+    "page": 160,
+    "title": "Thao tác F12 Cơ bản: Inspect Element & Network Tab",
+    "summary": "Elements giúp xem cấu trúc DOM/CSS; Network cho biết các yêu cầu tải tài nguyên.",
+    "bullets": [
+      "Inspect Element: chọn phần tử trên trang, xem thẻ HTML, class, id, style và box model.",
+      "Network: xem request URL, loại tài nguyên, status code, thời gian và kích thước tải.",
+      "Mã 200 thường là thành công; 404 không tìm thấy; 500 là lỗi phía máy chủ.",
+      "Tùy chọn Disable cache khi DevTools mở giúp kiểm tra việc tải tài nguyên mới.",
+      "Console hiển thị lỗi JavaScript; kết hợp với Network để khoanh vùng vấn đề."
+    ],
+    "example": "Ví dụ: ảnh mất kiểm tra request ảnh 404; nút lệch xem CSS padding/margin trong Elements.",
+    "note": "Những thay đổi ở DevTools chỉ là thử nghiệm cục bộ, không sửa mã web gốc."
+  },
+  {
+    "session": "19",
+    "lesson": 1,
+    "page": 165,
+    "title": "Developer và các rủi ro bảo mật cơ bản (Phishing, dính mã độc qua phần mềm crack)",
+    "summary": "Kỹ sư cần nhận diện email giả mạo, phần mềm không rõ nguồn và hành vi đánh cắp tài khoản.",
+    "bullets": [
+      "Phishing giả người gửi/trang đăng nhập để lấy mật khẩu, token hoặc thông tin cá nhân.",
+      "Phần mềm crack/keygen có nguy cơ cài mã độc, trojan, spyware và hậu quả pháp lý.",
+      "Không mở file đính kèm đáng ngờ; kiểm tra URL thật, tên miền và chứng chỉ trang.",
+      "Giữ hệ điều hành/phần mềm được cập nhật; dùng nguồn cài đặt đáng tin và quét bảo mật.",
+      "Nếu đã nhập thông tin vào trang giả: đổi mật khẩu từ thiết bị sạch, thu hồi phiên và bật MFA."
+    ],
+    "example": "Ví dụ: “GitHub yêu cầu xác minh ngay” từ domain lạ có thể là phishing dù giao diện giống thật.",
+    "note": "Không tin một website chỉ vì có biểu tượng ổ khóa HTTPS."
+  },
+  {
+    "session": "19",
+    "lesson": 2,
+    "page": 170,
+    "title": "Nguyên lý của Password Manager (Quản lý mật khẩu tập trung)",
+    "summary": "Password manager lưu và tạo mật khẩu mạnh, độc nhất cho từng tài khoản.",
+    "bullets": [
+      "Dùng một mật khẩu chủ đủ mạnh; kết hợp MFA cho tài khoản quản lý mật khẩu.",
+      "Mật khẩu khác nhau cho từng dịch vụ giúp hạn chế tác hại khi một nơi rò rỉ.",
+      "Password manager có thể tạo chuỗi ngẫu nhiên và tự điền nếu đúng website.",
+      "Lưu mã khôi phục ở nơi an toàn; xem chính sách backup và truy cập khi mất thiết bị.",
+      "Không gửi kho mật khẩu qua chat/email hoặc lưu master password trong file văn bản công khai."
+    ],
+    "example": "Ví dụ: tài khoản GitHub, email và ngân hàng phải có mật khẩu riêng dù do cùng một người sử dụng.",
+    "note": "Mật khẩu phức tạp nhưng tái sử dụng ở nhiều nơi vẫn nguy hiểm."
+  },
+  {
+    "session": "19",
+    "lesson": 3,
+    "page": 175,
+    "title": "Tầm quan trọng sống còn của Xác thực 2 bước (2FA/MFA) qua Authenticator App",
+    "summary": "2FA bổ sung một bằng chứng khác ngoài mật khẩu để giảm nguy cơ đăng nhập trái phép.",
+    "bullets": [
+      "Ba nhóm yếu tố: thứ bạn biết (mật khẩu), thứ bạn có (thiết bị/khóa), thứ bạn là (sinh trắc).",
+      "Authenticator thường tạo mã TOTP ngắn hạn; không chia sẻ mã xác minh với bất kỳ ai.",
+      "Mã SMS dễ bị tấn công chuyển SIM hơn một số hình thức khác; passkey/khóa bảo mật chống phishing tốt hơn khi hỗ trợ.",
+      "Lưu recovery codes ngoại tuyến an toàn, kiểm tra đồng bộ/di chuyển thiết bị trước khi đổi điện thoại.",
+      "Bật MFA đặc biệt cho email, GitHub, cloud, tài chính và password manager."
+    ],
+    "example": "Ví dụ: kẻ tấn công biết mật khẩu vẫn khó đăng nhập nếu thiếu yếu tố thứ hai.",
+    "note": "Không nhập mã OTP vào trang lạ hoặc gửi qua tin nhắn cho người tự xưng hỗ trợ."
+  },
+  {
+    "session": "19",
+    "lesson": 4,
+    "page": 180,
+    "title": "Quản lý & Bảo mật Secrets trong Lập trình (API Keys, SSH Keys, .env & .gitignore)",
+    "summary": "Secret là thông tin cho phép truy cập tài nguyên, cần tách khỏi source code và lịch sử Git.",
+    "bullets": [
+      "API key, access token, mật khẩu, private SSH key đều là dữ liệu bí mật.",
+      "Lưu biến cấu hình trong .env cục bộ hoặc secret manager; chỉ đưa .env.example với giá trị giả lên Git.",
+      "Thêm .env, private keys, credential files vào .gitignore trước khi commit.",
+      "Nếu secret từng commit, chỉ thêm .gitignore chưa đủ: phải thu hồi/rotate và xử lý lịch sử khi cần.",
+      "Phân quyền tối thiểu, giới hạn phạm vi/token và không đưa khóa vào log, ảnh màn hình hoặc prompt AI."
+    ],
+    "example": "Ví dụ: API_KEY được đọc từ biến môi trường khi chạy app, không ghi cứng chuỗi khóa trong file Python.",
+    "note": "Đã đẩy token lên repo công khai phải coi như đã bị lộ và đổi ngay."
+  },
+  {
+    "session": "21",
+    "lesson": 1,
+    "page": 185,
+    "title": "Nghệ thuật “Googling” cho Tân Sinh viên CNTT (Sử dụng toán tử site:, \" \", -)",
+    "summary": "Tìm kiếm kỹ thuật hiệu quả cần từ khóa mô tả lỗi và toán tử khoanh vùng.",
+    "bullets": [
+      "Dùng câu lỗi cụ thể kèm tên công nghệ/phiên bản; bỏ các từ không có giá trị tìm kiếm.",
+      "\"exact phrase\": tìm cụm từ chính xác; site:docs.python.org giới hạn website.",
+      "Dấu trừ loại từ không liên quan: python install -anaconda.",
+      "Ưu tiên tài liệu chính thức và nội dung cập nhật so với mẹo cũ không kiểm chứng.",
+      "Đọc kỹ điều kiện áp dụng: hệ điều hành, phiên bản thư viện, thông báo lỗi."
+    ],
+    "example": "Ví dụ: site:stackoverflow.com \"ModuleNotFoundError\" python venv.",
+    "note": "Kết quả đứng đầu không mặc nhiên là hướng dẫn đúng hoặc an toàn."
+  },
+  {
+    "session": "21",
+    "lesson": 2,
+    "page": 189,
+    "title": "Đọc hiểu Ngữ cảnh Lỗi & Giải mã cùng Trợ lý AI",
+    "summary": "AI hỗ trợ giải nghĩa lỗi, đề xuất nguyên nhân và cách thử; cần cung cấp đủ ngữ cảnh và xác minh.",
+    "bullets": [
+      "Ghi nguyên văn thông báo lỗi, dòng stack trace liên quan và hành vi mong đợi.",
+      "Kèm môi trường: OS, ngôn ngữ/phiên bản, cách chạy, mã tối thiểu gây lỗi.",
+      "Đề nghị AI phân loại nguyên nhân, đưa bước kiểm tra và giải thích tại sao sửa được.",
+      "Ẩn API key, thông tin cá nhân, token, dữ liệu nhạy cảm trước khi chia sẻ.",
+      "Sau mỗi thay đổi cần tái hiện, kiểm tra kết quả và theo dõi lỗi phát sinh."
+    ],
+    "example": "Ví dụ prompt: “Windows 10, Python 3.12, lỗi ModuleNotFoundError khi chạy app.py; đây là pip list và traceback”.",
+    "note": "Không áp dụng ngay lệnh xóa dữ liệu hoặc cấp quyền admin do AI đưa ra."
+  },
+  {
+    "session": "21",
+    "lesson": 3,
+    "page": 192,
+    "title": "Framework Đặt Câu Hỏi khi gặp Bug (Bug Reporting Framework)",
+    "summary": "Báo lỗi có cấu trúc giúp người khác tái hiện và hỗ trợ nhanh hơn.",
+    "bullets": [
+      "Tiêu đề ngắn, chỉ rõ triệu chứng và thành phần lỗi.",
+      "Môi trường: OS, phiên bản, trình duyệt, thiết bị, cấu hình ảnh hưởng.",
+      "Steps to reproduce: liệt kê từng bước tái hiện theo đúng thứ tự.",
+      "Expected result vs Actual result: kết quả mong đợi và thực tế.",
+      "Đính kèm log, ảnh, mã tối thiểu; nêu mức độ ảnh hưởng, tần suất và cách đã thử."
+    ],
+    "example": "Ví dụ: “Edge 157, nút Save không hoạt động: mở trang A nhập tên bấm Save; mong đợi lưu, thực tế không phản hồi”.",
+    "note": "Không viết bug report chỉ gồm “nó bị lỗi, sửa giúp em”."
+  },
+  {
+    "session": "21",
+    "lesson": 4,
+    "page": 195,
+    "title": "Đọc hiểu Ngữ cảnh trên StackOverflow và GitHub Issues",
+    "summary": "Cộng đồng cung cấp kinh nghiệm nhưng câu trả lời phải được đánh giá trước khi áp dụng.",
+    "bullets": [
+      "StackOverflow: đọc tags, câu hỏi, vote, ngày đăng, câu trả lời accepted và phần bình luận phản biện.",
+      "GitHub Issues: kiểm tra trạng thái Open/Closed, phiên bản, nhãn, bình luận maintainer và workaround.",
+      "Đọc lướt nhanh: xác định lỗi giống mình xem code/giải pháp đối chiếu phiên bản đọc cảnh báo.",
+      "Ba tiêu chí tin cậy: tính phù hợp ngữ cảnh; độ mới/khả năng tương thích; xác nhận từ tài liệu hoặc người bảo trì.",
+      "Thử giải pháp trong môi trường an toàn và ghi lại kết quả; không chạy lệnh nguy hiểm không hiểu."
+    ],
+    "example": "Ví dụ: issue đã Closed với bản sửa ở phiên bản mới nâng cấp phù hợp có thể tốt hơn dùng workaround cũ.",
+    "note": "Accepted answer hoặc nhiều upvote không chứng minh giải pháp vẫn đúng ở hiện tại."
+  }
+]

@@ -1,0 +1,47 @@
+02-01|Chu trình xử lý thông tin|Các loại input và output|Ứng dụng CNTT trong đời sống|Nghề nghiệp thuộc CNTT
+02-02|Information Technology (IT)|Computer Science (CS)|Software Engineering (SE)|Data Science (DS)|Khác biệt trọng tâm IT/CS/SE/DS
+02-03|AI và Machine Learning|Phát triển Web và Mobile|Cloud và DevOps|Cybersecurity|IoT, Big Data và UI/UX
+02-04|Dữ liệu thô (Data)|Thông tin có ngữ cảnh (Information)|Tri thức (Knowledge)|Tháp DIKW|Ảnh hưởng của chất lượng dữ liệu
+02-05|Phần cứng của máy tính|Phần mềm của máy tính|CPU, RAM và SSD/HDD|Thiết bị vào/ra|Kiến trúc phần cứng và bus
+02-06|Quan hệ bit và byte|Đơn vị hệ thập phân SI|Đơn vị hệ nhị phân IEC|Đơn vị tốc độ mạng và dung lượng|Quy tắc chọn hệ đo 1000/1024
+02-07|ALU, CU và cache CPU|RAM và ROM/firmware|So sánh SSD với HDD|Chu trình đọc–giải mã–thực thi|Các yếu tố quyết định hiệu năng
+03-01|Chức năng quản lý tài nguyên OS|Các họ hệ điều hành|Kernel, shell và GUI|System call và API|Cập nhật và an toàn hệ điều hành
+03-02|Ký tự nên dùng trong tên file|Ký tự không hợp lệ trên Windows|Các kiểu đặt tên code|Phân biệt hoa/thường khi chuyển OS|Đặt tên file rõ phiên bản và mục đích
+03-03|Đường dẫn tuyệt đối Windows|Đường dẫn tuyệt đối Unix|Ký hiệu ./ và ../|Dấu phân cách đường dẫn|Đường dẫn tương đối và working directory
+03-04|Thư mục gốc và thư mục con|Hệ thống tệp Windows và Unix|Thuộc tính của file|Lợi ích cây thư mục phân cấp|Phân biệt tệp, thư mục và shortcut
+03-05|Cách phân chia thư mục học tập|Quy tắc tên phiên bản|Source, Docs, Data, Output, Archive|Dọn dẹp và sao lưu định kỳ|Tìm kiếm và metadata cho nhiều tệp
+03-06|Vai trò phần mở rộng file|File name extensions và Hidden items|Tệp ẩn bắt đầu bằng dấu chấm|Cảnh báo file report.pdf.exe|Thận trọng với file hệ thống ẩn
+05-01|Lệnh pwd và cd|Lệnh liệt kê file và thư mục|Điều hướng thư mục cha và root|Quote đường dẫn có khoảng trắng|Kiểm tra đường dẫn trước khi sửa dữ liệu
+05-02|Lệnh tạo file và folder|Lệnh đọc nội dung file|Lệnh sao chép và di chuyển|Lệnh xóa file và folder|Quyền ghi và rủi ro xóa đệ quy
+05-03|Cấu trúc command option argument|CLI và GUI|Cách viết option dòng lệnh|Tra trợ giúp command|Thông báo lỗi và exit code
+05-04|Command not found|No such file or directory|Permission denied|File exists|Các bước chẩn đoán lỗi terminal
+07-01|Đọc file trên Unix|Đọc file trên CMD và PowerShell|Định vị chương trình thực thi|Tìm file đệ quy theo điều kiện|Đọc log dung lượng lớn
+07-02|Toán tử pipe|Lọc, đếm, sắp xếp Unix|Lọc văn bản trên CMD và PowerShell|Pipeline đối tượng PowerShell|Kiểm tra kết quả các lệnh trong pipe
+07-03|Stdin stdout stderr|Phân biệt > và >>|Chuyển hướng stderr|Pipe kết hợp redirection|Kiểm tra trước khi ghi đè
+07-04|Kiểm tra mã script AI|Biến môi trường và quyền chạy|Dry-run và thử dữ liệu mẫu|Bảo vệ API key trong script AI|Quyền tối thiểu và backup
+07-05|Đuôi .sh và shebang|Biến điều kiện và vòng lặp script|Quote đường dẫn và kiểm tra kết quả|Log, xử lý lỗi và cấu hình|Thẩm định script tải về
+09-01|File .md và Git|Nguồn và bản render Markdown|Ứng dụng của Markdown|Đặc điểm cú pháp đánh dấu nhẹ|Cấu trúc tài liệu Markdown tốt
+09-02|Cú pháp heading Markdown|Cú pháp in đậm in nghiêng inline code|Cú pháp list và nested list|Cú pháp link và image|Cú pháp blockquote
+09-03|Fenced code block|Bảng Markdown|Task list Markdown|Bố cục README.md|Bảo mật khi đưa lệnh vào README
+09-04|Các phần prompt Markdown|Tiêu chí kiểm tra và ví dụ|Tách dữ liệu nguồn và chỉ dẫn|Quản lý tri thức prompt|Xác minh câu trả lời AI
+11-01|Heading 1 2 3|Tạo mục lục Word và Google Docs|Cập nhật mục lục|Page Break và danh sách chuẩn|Bố cục tiêu đề thân bài chú thích
+11-02|Một record một hàng một field một cột|Tránh merge cells và hàng trống|AutoFilter theo giá trị và điều kiện|Sắp xếp toàn bộ bảng|Kiểm tra dữ liệu lỗi, thiếu, trùng
+11-03|Cú pháp VLOOKUP|Khớp chính xác FALSE|Cố định table_array bằng dấu $|Nguyên nhân lỗi #N/A|Giới hạn tra cứu VLOOKUP
+11-04|Quy tắc thuyết trình 10/20/30|Một thông điệp trên mỗi slide|Tương phản, cỡ chữ và bố cục|Cấu trúc báo cáo kỹ thuật|Nhãn trục và đơn vị biểu đồ
+15-01|Viewer Commenter Editor|Least privilege|Phạm vi chia sẻ email và link|Rà soát quyền và thu hồi chia sẻ|Tùy chọn tải xuống và audit log
+15-02|Tổ chức kênh nhóm|Viết tin nhắn công việc có ngữ cảnh|Dùng thread trong Slack/Teams|Phân biệt thông báo khẩn và tham khảo|Không chia sẻ secret vào kênh chung
+15-03|Ưu nhược điểm local storage|Ưu nhược điểm cloud storage|Hybrid Workflow với Git và cloud|Quy tắc sao lưu 3-2-1|Xung đột đồng bộ và phân biệt sync với backup
+17-01|Thành phần kiến trúc trình duyệt|DOM, CSS và JavaScript|Phím tắt DevTools|Các tab Developer Tools|Giới hạn của Inspect Element
+17-02|Tổ chức bookmark theo mục đích|Dữ liệu tách biệt trong profile|Profile học tập và công việc|Đồng bộ bookmark an toàn|Export/import bookmark
+17-03|Cache lưu tài nguyên|Cookie duy trì trạng thái đăng nhập|Hậu quả xóa cache và cookie|Hiểu đúng về cookie|Xử lý sự cố dữ liệu duyệt web
+17-04|Dữ liệu trong mỗi profile|Chia profile theo vai trò|Nhận diện tài khoản đang dùng|Giới hạn cách ly của profile|An toàn trên máy công cộng
+17-05|Thẩm định nguồn extension|Quyền đọc và sửa mọi website|Dọn tiện ích lỗi thời hoặc trùng chức năng|Nhóm extension theo profile|Rủi ro extension không đáng tin
+17-06|Inspect HTML CSS và box model|Network request và status code|HTTP 200 404 500|Disable cache trong DevTools|Kết hợp Console và Network
+19-01|Nhận diện phishing|Rủi ro phần mềm crack và keygen|Kiểm tra URL và file đính kèm|Cập nhật và phần mềm uy tín|Ứng phó khi nhập password vào site giả
+19-02|Mật khẩu chủ và MFA|Mật khẩu độc nhất trên mỗi dịch vụ|Tạo mật khẩu ngẫu nhiên và autofill|Recovery codes và backup|Không lộ vault và master password
+19-03|Ba nhóm yếu tố MFA|TOTP Authenticator|SMS OTP và khóa bảo mật|Lưu recovery codes|Những tài khoản nên bật MFA
+19-04|Các loại secret cần bảo vệ|.env và .env.example|.gitignore trước commit|Xử lý secret đã commit|Giới hạn phạm vi token
+21-01|Từ khóa lỗi và phiên bản|Toán tử tìm chính xác và site:|Toán tử loại trừ dấu trừ|Ưu tiên tài liệu mới và chính thức|Đối chiếu phiên bản và OS
+21-02|Traceback và lỗi nguyên văn|Ngữ cảnh OS và runtime|Cách hỏi AI phân tích nguyên nhân|Ẩn token và dữ liệu nhạy cảm|Kiểm thử lại sau sửa lỗi
+21-03|Tiêu đề bug report|Environment trong báo lỗi|Steps to reproduce|Expected so với Actual|Bằng chứng log và mã tối thiểu
+21-04|Đọc tags, votes và accepted trên StackOverflow|Thông tin Open Closed của GitHub Issue|Đọc lướt giải pháp theo ngữ cảnh|Ba tiêu chí đánh giá độ tin cậy|Thử giải pháp ở môi trường an toàn

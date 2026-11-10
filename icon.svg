@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="IT Quiz">
+<rect width="128" height="128" rx="26" fill="#2454db"/>
+<path fill="#e63746" d="M0 26Q0 0 26 0H128L0 128Z"/>
+<rect x="11" y="11" width="106" height="106" rx="20" fill="none" stroke="#fff" stroke-opacity=".42" stroke-width="3"/>
+<text x="64" y="80" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="56" fill="white">IT</text>
+</svg>
